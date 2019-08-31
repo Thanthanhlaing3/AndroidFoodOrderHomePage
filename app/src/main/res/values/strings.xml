@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Food Order</string>
+    <string name="title_1">Take a look at our\nmenu!</string>
+    <string name="title_2">Choose from our delicious\nbestsellers.</string>
+    <string name="view_menu">View menu</string>
+
+    <string name="delivery">Delivery</string>
+    <string name="takeaway">Takeaway</string>
+    <string name="restaurants">Restaurants</string>
+
+    <string name="delivery_order_info_title">Type city, street, street number</string>
+    <string name="delivery_order_location_title">Find my location</string>
+
+    <string name="delivery_order_button_title">Order</string>
+</resources>
